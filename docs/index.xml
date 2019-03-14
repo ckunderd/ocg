@@ -6,7 +6,6 @@
     <description>Recent content on Oakland County Generators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2018, Gulf Coast Generators | All rights reserved.</copyright>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://oaklandcountygenerators.com/index.xml" rel="self" type="application/rss+xml" />
@@ -73,7 +72,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://oaklandcountygenerators.com/contact/</guid>
-      <description>We are here to help you! Call 305-771-3703 for fastest service! If you are interested in a free consultation or quote, or simply have a question about generator maintenance, installation, or something else, please fill out the form below. Our team will repsond to you as soon as possible! Or feel free to message us on our Facebook page for prompt service.</description>
+      <description>We are here to help you! Call 248-961-3647 for fastest service! If you are interested in a free consultation or quote, or simply have a question about generator maintenance, installation, or something else, please fill out the form below. Our team will repsond to you as soon as possible! Or feel free to message us on our Facebook page for prompt service.</description>
     </item>
     
     <item>
@@ -84,16 +83,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <guid>https://oaklandcountygenerators.com/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    
-    <item>
-      <title>Sales and Installation</title>
-      <link>https://oaklandcountygenerators.com/sales/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://oaklandcountygenerators.com/sales/</guid>
-      <description>The Gulf Coast Generators 3 Step Process  To find out what type and size generator works best for your home, we begin with a phone consultation. We’ll ask you a few basic questions about your home and appliances, and in most cases provide a quote right over the phone.
- Next, one of our trained technicians will do an in-home evaluation, answer all your questions, and schedule delivery and installation.</description>
     </item>
     
   </channel>

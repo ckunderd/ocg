@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-128625038-3"
 
 # Define the number of posts per page
 paginate = 10
@@ -44,20 +44,20 @@ paginate = 10
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "https://www.facebook.com/Gulf-Coast-Generators-2113934385289542/"
+    url = "https://www.facebook.com/Oakland-County-Generators-1526487470992790"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:info@floridagulfcoastgenerators.com"
+    url = "mailto:oaklandcountygenerators@gmail.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
     author = "Mitch Mountney"
-    defaultKeywords = ["generators", "florida", "gulf coast"]
-    defaultDescription = "Oakland county Generators"
+    defaultKeywords = ["generators", "oakland county", "michigan"]
+    defaultDescription = "Oakland County Generators"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -78,22 +78,25 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "mitchmountney@gmail.com"
+    email = "oaklandcountygenerators@gmail.com"
 
     about_us = "<p>We offer over 30 years of experience in the electrical industry. We take on a wide range of generator installations and repairs and a variety of other jobs. We are committed to providing a personalized service for each individual project we take on and look forward to building strong, long-term relationships with our clients while guaranteeing your satisfaction.</p>"
-    copyright = "Copyright &copy; 2018, Gulf Coast Generators | All rights reserved."
+    copyright = "Copyright &copy; 2019 Gulf Coast Generators | All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo_400px.png"
-    address = """<p><strong>Gulf Coast Generators</strong>
-        <br>20325 Corkscrew Shores Blvd
-        <br>Estero, FL 33928
+    address = """<p><strong>Oakland County Generators</strong>
+        <br>374 Ottawa Dr
+        <br>Troy, MI 48085
+        <br><a href="tel:248-961-3647">248-961-3647 </a>
+        <br><a href="mailto:oaklandcountygenerators@gmail.com">oaklandcountygenerators@gmail.com</a>
       </p>
       """
     latitude = "26.448458"
     longitude = "-81.723017"
+    phone = "248-961-3647"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -101,7 +104,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us today! 305-771-3703.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us today! <a href="tel:248-961-3647">248-961-3647</a>.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -124,7 +127,7 @@ paginate = 10
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
-    featureinfo = """<h2 align="center" style="font-weight:300;">See why our customers give <span style="font-weight: 700;">Gulf Coast Generators</span> 5 stars!</h2><h2 align="center">Call for your free quote today: <a href="tel:305-771-3703">305-771-3703</a></h2>"""
+    featureinfo = """<h2 align="center" style="font-weight:300;">See why our customers give <span style="font-weight: 700;">Oakland County Generators</span> 5 stars!</h2><h2 align="center">Call for your free quote today: <a href="tel:248-961-3647">248-961-3647</a></h2>"""
 
 [params.testimonials]
     enable = true
@@ -132,7 +135,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
-    subtitle = "We have worked with a number of clients, and we are always excited to see the great things they have to say about Gulf Coast Generators."
+    subtitle = "We have worked with a number of clients, and we are always excited to see the great things they have to say about Oakland County Generators."
 
 [params.see_more]
     enable = false
