@@ -81,12 +81,13 @@ paginate = 10
     email = "oaklandcountygenerators@gmail.com"
 
     about_us = "<p>We offer over 30 years of experience in the electrical industry. We take on a wide range of generator installations and repairs and a variety of other jobs. We are committed to providing a personalized service for each individual project we take on and look forward to building strong, long-term relationships with our clients while guaranteeing your satisfaction.</p>"
-    copyright = "Copyright &copy; 2019 Gulf Coast Generators | All rights reserved."
+    copyright = "Copyright &copy; 2019 Oakland County Generators | All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo_400px.png"
+    logosmall = "img/logo-small.png"
     address = """<p><strong>Oakland County Generators</strong>
         <br>374 Ottawa Dr
         <br>Troy, MI 48085

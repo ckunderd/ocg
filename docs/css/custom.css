@@ -47,3 +47,7 @@ div#heading-breadcrumbs {
     background: #EEE;
     border-top: 10px solid #2738b8;
 }
+@media screen (max-width: 500px) {
+    
+    .navbar-brand>img {width: 200px !important;}
+}
